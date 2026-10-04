@@ -39,7 +39,6 @@ apis:
   - name: Graphs for Coronavirus
     description: "Each Country separately and Worldwide Graphs for Coronavirus. Daily updates"
     humanURL: https://corona.dnsforfamily.com/api.txt
-    baseURL: https://corona.dnsforfamily.com/api.txt
     tags:
       - News
     properties:
